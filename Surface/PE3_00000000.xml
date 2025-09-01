@@ -1,0 +1,3416 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>3h Precipitation</VAR>
+<UNIT>mm/3h</UNIT>
+<PERIOD>20250702-20250801</PERIOD>
+ <STATION>
+ <MEAN_OBS>  0.286547065     </MEAN_OBS>
+ <STDV_OBS>  0.897166789     </STDV_OBS>
+ <EXP>
+ <ID>       10224 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         446 </NUM>
+ <MEAN>  0.203740299     </MEAN>
+ <STDV>  -2.21820159E-10 </STDV>
+ <BIAS>   1.20341182     </BIAS>
+ <RMSE>  0.171106204     </RMSE>
+ <CORR>  -2.97486549E-11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10224 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         446 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.30625081     </BIAS>
+ <RMSE>  0.112398855     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.436403602     </MEAN_OBS>
+ <STDV_OBS>   1.52880490     </STDV_OBS>
+ <EXP>
+ <ID>       10381 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.466280967     </MEAN>
+ <STDV>  -1.80941329E-29 </STDV>
+ <BIAS>   1.26431036     </BIAS>
+ <RMSE>  0.520056605     </RMSE>
+ <CORR>  -2.28489311E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10381 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.56284916     </BIAS>
+ <RMSE>  0.429506540     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.475938261     </MEAN_OBS>
+ <STDV_OBS>   1.14401078     </STDV_OBS>
+ <EXP>
+ <ID>        6104 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         453 </NUM>
+ <MEAN>  0.260726571     </MEAN>
+ <STDV>  -1.80941329E-29 </STDV>
+ <BIAS>   1.78211081     </BIAS>
+ <RMSE>  0.233103544     </RMSE>
+ <CORR>  -2.28489311E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6104 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         453 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.59421003     </BIAS>
+ <RMSE>  0.331947923     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.271302342     </MEAN_OBS>
+ <STDV_OBS>   1.39804745     </STDV_OBS>
+ <EXP>
+ <ID>        6019 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         453 </NUM>
+ <MEAN>  0.300488144     </MEAN>
+ <STDV>  -2.21820159E-10 </STDV>
+ <BIAS>   1.14015543     </BIAS>
+ <RMSE>  0.607071698     </RMSE>
+ <CORR>  -1.77919379E-29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6019 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         453 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.18281198     </BIAS>
+ <RMSE>  0.581538618     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.322476983     </MEAN_OBS>
+ <STDV_OBS>  0.912312508     </STDV_OBS>
+ <EXP>
+ <ID>        6031 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         436 </NUM>
+ <MEAN>  0.225561619     </MEAN>
+ <STDV>  -2.26636751E-10 </STDV>
+ <BIAS>   1.44675100     </BIAS>
+ <RMSE>  0.234788314     </RMSE>
+ <CORR>  -2.21820159E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6031 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         436 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.39865780     </BIAS>
+ <RMSE>  0.241075352     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.131712943     </MEAN_OBS>
+ <STDV_OBS>   1.00133538     </STDV_OBS>
+ <EXP>
+ <ID>        6041 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         432 </NUM>
+ <MEAN>  0.181505993     </MEAN>
+ <STDV>  -2.26647853E-10 </STDV>
+ <BIAS>   1.71190274     </BIAS>
+ <RMSE>  0.139839500     </RMSE>
+ <CORR>  -2.26639568E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6041 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         432 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.18567824     </BIAS>
+ <RMSE>  0.269929498     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.163360864     </MEAN_OBS>
+ <STDV_OBS>  0.661978066     </STDV_OBS>
+ <EXP>
+ <ID>        6051 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         363 </NUM>
+ <MEAN>  0.183448628     </MEAN>
+ <STDV>  -2.21888466E-10 </STDV>
+ <BIAS>  0.725791991     </BIAS>
+ <RMSE>  0.342702836     </RMSE>
+ <CORR>  -2.20020988E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6051 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         363 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>  0.638667703     </BIAS>
+ <RMSE>  0.387333125     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.227064118     </MEAN_OBS>
+ <STDV_OBS>   1.90275884     </STDV_OBS>
+ <EXP>
+ <ID>        6058 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         436 </NUM>
+ <MEAN>  0.333080858     </MEAN>
+ <STDV>  -1.80941329E-29 </STDV>
+ <BIAS>   1.34222269     </BIAS>
+ <RMSE>  0.367957473     </RMSE>
+ <CORR>  -2.28497304E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6058 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         436 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.66079783     </BIAS>
+ <RMSE>  0.495882452     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.431639850     </MEAN_OBS>
+ <STDV_OBS>   2.45635676     </STDV_OBS>
+ <EXP>
+ <ID>        6065 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         433 </NUM>
+ <MEAN>  0.462546676     </MEAN>
+ <STDV>  -1.77919379E-29 </STDV>
+ <BIAS>   2.46221495     </BIAS>
+ <RMSE>  0.372356206     </RMSE>
+ <CORR>  -2.97486549E-11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6065 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         433 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   2.55061007     </BIAS>
+ <RMSE>  0.277614921     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.253629893     </MEAN_OBS>
+ <STDV_OBS>   1.45650029     </STDV_OBS>
+ <EXP>
+ <ID>        6068 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         427 </NUM>
+ <MEAN>  0.355535358     </MEAN>
+ <STDV>  -2.21820159E-10 </STDV>
+ <BIAS>   1.46049774     </BIAS>
+ <RMSE>  0.108833291     </RMSE>
+ <CORR>  -1.77919379E-29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6068 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         427 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.56295574     </BIAS>
+ <RMSE>  0.140536904     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.255348802     </MEAN_OBS>
+ <STDV_OBS>   1.21692252     </STDV_OBS>
+ <EXP>
+ <ID>        6072 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         430 </NUM>
+ <MEAN>  0.292116791     </MEAN>
+ <STDV>  -2.26592342E-10 </STDV>
+ <BIAS>   1.53238094     </BIAS>
+ <RMSE>  0.570547283     </RMSE>
+ <CORR>  -2.21820159E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6072 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         430 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.08258247     </BIAS>
+ <RMSE>  0.561205566     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.284210473     </MEAN_OBS>
+ <STDV_OBS>   1.51677120     </STDV_OBS>
+ <EXP>
+ <ID>        6074 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.275593728     </MEAN>
+ <STDV>  -2.26639568E-10 </STDV>
+ <BIAS>   1.63574290     </BIAS>
+ <RMSE>  0.590222418     </RMSE>
+ <CORR>  -2.26657776E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6074 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.46823716     </BIAS>
+ <RMSE>  0.473419964     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.254824549     </MEAN_OBS>
+ <STDV_OBS>   1.59984004     </STDV_OBS>
+ <EXP>
+ <ID>        6079 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.367954999     </MEAN>
+ <STDV>  -2.26647853E-10 </STDV>
+ <BIAS>   1.58737731     </BIAS>
+ <RMSE>  0.303236544     </RMSE>
+ <CORR>  -2.26639568E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6079 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.61252344     </BIAS>
+ <RMSE>  0.299563557     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.336489677     </MEAN_OBS>
+ <STDV_OBS>   1.26380002     </STDV_OBS>
+ <EXP>
+ <ID>        6082 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         433 </NUM>
+ <MEAN>  0.272571295     </MEAN>
+ <STDV>  -2.21888466E-10 </STDV>
+ <BIAS>   1.58430231     </BIAS>
+ <RMSE>   9.51027051E-02 </RMSE>
+ <CORR>  -2.20020988E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6082 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         433 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.70480728     </BIAS>
+ <RMSE>   9.75166485E-02 </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.301442295     </MEAN_OBS>
+ <STDV_OBS>  0.746316433     </STDV_OBS>
+ <EXP>
+ <ID>        6102 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         416 </NUM>
+ <MEAN>  0.219891772     </MEAN>
+ <STDV>  -2.21818980E-10 </STDV>
+ <BIAS>   1.12360871     </BIAS>
+ <RMSE>  0.358816028     </RMSE>
+ <CORR>  -2.97486584E-11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6102 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         416 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.07675147     </BIAS>
+ <RMSE>  0.394063056     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.407058835     </MEAN_OBS>
+ <STDV_OBS>   1.21543133     </STDV_OBS>
+ <EXP>
+ <ID>        6109 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         425 </NUM>
+ <MEAN>  0.277694911     </MEAN>
+ <STDV>  -1.77919364E-29 </STDV>
+ <BIAS>   2.43040395     </BIAS>
+ <RMSE>  0.153916001     </RMSE>
+ <CORR>  -2.21818980E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6109 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         425 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.60875070     </BIAS>
+ <RMSE>  0.236316800     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.242342323     </MEAN_OBS>
+ <STDV_OBS>   1.41232312     </STDV_OBS>
+ <EXP>
+ <ID>        6110 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         444 </NUM>
+ <MEAN>  0.302606821     </MEAN>
+ <STDV>  -2.28500205E-10 </STDV>
+ <BIAS>   1.47969854     </BIAS>
+ <RMSE>  0.210626841     </RMSE>
+ <CORR>  -1.77919364E-29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6110 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         444 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.45879507     </BIAS>
+ <RMSE>  0.210315421     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.242452711     </MEAN_OBS>
+ <STDV_OBS>  0.682039261     </STDV_OBS>
+ <EXP>
+ <ID>        6119 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         424 </NUM>
+ <MEAN>  0.135770157     </MEAN>
+ <STDV>  -2.26592342E-10 </STDV>
+ <BIAS>   1.16300154     </BIAS>
+ <RMSE>  0.243987486     </RMSE>
+ <CORR>  -2.21824975E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6119 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         424 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.17910576     </BIAS>
+ <RMSE>  0.215137944     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.452705979     </MEAN_OBS>
+ <STDV_OBS>   1.37024677     </STDV_OBS>
+ <EXP>
+ <ID>        6126 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         425 </NUM>
+ <MEAN>  0.256939650     </MEAN>
+ <STDV>  -2.26636737E-10 </STDV>
+ <BIAS>   1.80940211     </BIAS>
+ <RMSE>  0.349444151     </RMSE>
+ <CORR>  -2.21856727E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6126 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         425 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.70041275     </BIAS>
+ <RMSE>  0.509770572     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.351535052     </MEAN_OBS>
+ <STDV_OBS>   1.59472418     </STDV_OBS>
+ <EXP>
+ <ID>        6135 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.376229733     </MEAN>
+ <STDV>  -2.26645785E-10 </STDV>
+ <BIAS>   1.46375811     </BIAS>
+ <RMSE>  0.496913701     </RMSE>
+ <CORR>  -2.26636737E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6135 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.51288939     </BIAS>
+ <RMSE>  0.464935690     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.301414996     </MEAN_OBS>
+ <STDV_OBS>   1.73603153     </STDV_OBS>
+ <EXP>
+ <ID>        6136 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         424 </NUM>
+ <MEAN>  0.356427193     </MEAN>
+ <STDV>  -2.20020752E-10 </STDV>
+ <BIAS>   1.35818195     </BIAS>
+ <RMSE>  0.421816736     </RMSE>
+ <CORR>  -2.26645785E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6136 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         424 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.80245364     </BIAS>
+ <RMSE>  0.275253028     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.351535290     </MEAN_OBS>
+ <STDV_OBS>   1.06734169     </STDV_OBS>
+ <EXP>
+ <ID>        6138 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.249466717     </MEAN>
+ <STDV>  -2.26592342E-10 </STDV>
+ <BIAS>   1.40439069     </BIAS>
+ <RMSE>  0.192406893     </RMSE>
+ <CORR>  -2.20020752E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6138 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.34624231     </BIAS>
+ <RMSE>  0.298536927     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.491630018     </MEAN_OBS>
+ <STDV_OBS>   1.59684682     </STDV_OBS>
+ <EXP>
+ <ID>        6141 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         454 </NUM>
+ <MEAN>  0.407482833     </MEAN>
+ <STDV>  -2.21820159E-10 </STDV>
+ <BIAS>   1.67213607     </BIAS>
+ <RMSE>  0.459637016     </RMSE>
+ <CORR>  -2.26592342E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6141 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         454 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.77486062     </BIAS>
+ <RMSE>  0.440508753     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.244705692     </MEAN_OBS>
+ <STDV_OBS>  0.814472616     </STDV_OBS>
+ <EXP>
+ <ID>        6147 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         425 </NUM>
+ <MEAN>  0.243315741     </MEAN>
+ <STDV>  -1.77960697E-29 </STDV>
+ <BIAS>   1.17504275     </BIAS>
+ <RMSE>  0.541360497     </RMSE>
+ <CORR>  -2.21820159E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6147 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         425 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.09836650     </BIAS>
+ <RMSE>  0.360159874     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.179254100     </MEAN_OBS>
+ <STDV_OBS>   2.65031862     </STDV_OBS>
+ <EXP>
+ <ID>        6149 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         429 </NUM>
+ <MEAN>  0.436789513     </MEAN>
+ <STDV>  -2.26636737E-10 </STDV>
+ <BIAS>   1.54860461     </BIAS>
+ <RMSE>  0.724025846     </RMSE>
+ <CORR>  -1.77960697E-29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6149 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         429 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   2.24603176     </BIAS>
+ <RMSE>  0.571709871     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.486175299     </MEAN_OBS>
+ <STDV_OBS>   1.89822996     </STDV_OBS>
+ <EXP>
+ <ID>        6156 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         434 </NUM>
+ <MEAN>  0.444716513     </MEAN>
+ <STDV>  -2.97486584E-11 </STDV>
+ <BIAS>   2.03888059     </BIAS>
+ <RMSE>  0.648709476     </RMSE>
+ <CORR>  -2.26657776E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6156 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         434 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.86815631     </BIAS>
+ <RMSE>  0.502962887     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.244523704     </MEAN_OBS>
+ <STDV_OBS>   1.49891269     </STDV_OBS>
+ <EXP>
+ <ID>        6159 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         420 </NUM>
+ <MEAN>  0.354567111     </MEAN>
+ <STDV>  -2.26592342E-10 </STDV>
+ <BIAS>   1.13840830     </BIAS>
+ <RMSE>  0.686891317     </RMSE>
+ <CORR>  -2.97486584E-11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6159 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         420 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.21913171     </BIAS>
+ <RMSE>  0.607123137     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.299069673     </MEAN_OBS>
+ <STDV_OBS>   1.24469864     </STDV_OBS>
+ <EXP>
+ <ID>        6169 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         430 </NUM>
+ <MEAN>  0.347449929     </MEAN>
+ <STDV>  -2.28500205E-10 </STDV>
+ <BIAS>   2.24414659     </BIAS>
+ <RMSE>  0.163434863     </RMSE>
+ <CORR>  -2.21858795E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6169 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         430 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.41654646     </BIAS>
+ <RMSE>  0.377831697     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.164459199     </MEAN_OBS>
+ <STDV_OBS>   2.14667082     </STDV_OBS>
+ <EXP>
+ <ID>        6170 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         453 </NUM>
+ <MEAN>  0.411270171     </MEAN>
+ <STDV>  -2.26645785E-10 </STDV>
+ <BIAS>   1.45629179     </BIAS>
+ <RMSE>  0.286379516     </RMSE>
+ <CORR>  -2.28500205E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6170 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         453 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   2.10010839     </BIAS>
+ <RMSE>  0.247327909     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.268591076     </MEAN_OBS>
+ <STDV_OBS>   1.59522963     </STDV_OBS>
+ <EXP>
+ <ID>        6174 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         433 </NUM>
+ <MEAN>  0.337823421     </MEAN>
+ <STDV>  -2.28489311E-10 </STDV>
+ <BIAS>   1.60564172     </BIAS>
+ <RMSE>  0.270986408     </RMSE>
+ <CORR>  -2.26645785E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6174 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         433 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.79689217     </BIAS>
+ <RMSE>  0.120709188     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.350438595     </MEAN_OBS>
+ <STDV_OBS>  0.844973624     </STDV_OBS>
+ <EXP>
+ <ID>        6188 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.219761148     </MEAN>
+ <STDV>  -2.21818980E-10 </STDV>
+ <BIAS>   1.80588090     </BIAS>
+ <RMSE>  0.181683466     </RMSE>
+ <CORR>  -1.80943571E-29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6188 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.31450713     </BIAS>
+ <RMSE>  0.269601673     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.286945820     </MEAN_OBS>
+ <STDV_OBS>   1.19988406     </STDV_OBS>
+ <EXP>
+ <ID>        6197 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         406 </NUM>
+ <MEAN>  0.253706247     </MEAN>
+ <STDV>  -1.77960697E-29 </STDV>
+ <BIAS>   1.25180399     </BIAS>
+ <RMSE>  0.428853929     </RMSE>
+ <CORR>  -2.21818980E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6197 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         406 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.16978168     </BIAS>
+ <RMSE>  0.547845960     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.215384498     </MEAN_OBS>
+ <STDV_OBS>   3.09474802     </STDV_OBS>
+ <EXP>
+ <ID>       26422 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>  0.567259669     </MEAN>
+ <STDV>  -2.97486584E-11 </STDV>
+ <BIAS>   2.30622149     </BIAS>
+ <RMSE>  0.282055676     </RMSE>
+ <CORR>  -2.26639568E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26422 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   2.86897254     </BIAS>
+ <RMSE>  0.382411212     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.230364501     </MEAN_OBS>
+ <STDV_OBS>   1.36174369     </STDV_OBS>
+ <EXP>
+ <ID>       26229 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>  0.317611516     </MEAN>
+ <STDV>  -2.26592342E-10 </STDV>
+ <BIAS>   2.22448587     </BIAS>
+ <RMSE>  0.227444246     </RMSE>
+ <CORR>  -2.97486584E-11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26229 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.22754848     </BIAS>
+ <RMSE>  0.454693735     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.603654623     </MEAN_OBS>
+ <STDV_OBS>   3.90081596     </STDV_OBS>
+ <EXP>
+ <ID>       26346 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         985 </NUM>
+ <MEAN>  0.697138786     </MEAN>
+ <STDV>  -2.21858795E-10 </STDV>
+ <BIAS>   2.20249557     </BIAS>
+ <RMSE>  0.641679764     </RMSE>
+ <CORR>  -2.26592342E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26346 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         985 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   3.04272556     </BIAS>
+ <RMSE>  0.626097202     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.178745046     </MEAN_OBS>
+ <STDV_OBS>   1.99544609     </STDV_OBS>
+ <EXP>
+ <ID>       26429 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>  0.410728365     </MEAN>
+ <STDV>  -2.26582933E-10 </STDV>
+ <BIAS>   2.34353900     </BIAS>
+ <RMSE>  0.587159991     </RMSE>
+ <CORR>  -2.21858795E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26429 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.65498424     </BIAS>
+ <RMSE>  0.602165163     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.824088514     </MEAN_OBS>
+ <STDV_OBS>   2.41650367     </STDV_OBS>
+ <EXP>
+ <ID>       26544 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>  0.660670161     </MEAN>
+ <STDV>  -2.26635571E-10 </STDV>
+ <BIAS>   3.21098375     </BIAS>
+ <RMSE>  0.318917185     </RMSE>
+ <CORR>  -2.26582933E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26544 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   3.01627445     </BIAS>
+ <RMSE>  0.310585439     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.310526311     </MEAN_OBS>
+ <STDV_OBS>   2.95413232     </STDV_OBS>
+ <EXP>
+ <ID>       26424 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>  0.552829683     </MEAN>
+ <STDV>  -2.26639568E-10 </STDV>
+ <BIAS>   2.13491106     </BIAS>
+ <RMSE>  0.150071234     </RMSE>
+ <CORR>  -2.26635571E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26424 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   3.20601058     </BIAS>
+ <RMSE>   7.74641559E-02 </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.528542280     </MEAN_OBS>
+ <STDV_OBS>  0.957734883     </STDV_OBS>
+ <EXP>
+ <ID>       26348 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>  0.257955194     </MEAN>
+ <STDV>  -2.97486584E-11 </STDV>
+ <BIAS>   2.02575397     </BIAS>
+ <RMSE>  0.320971578     </RMSE>
+ <CORR>  -2.26639568E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26348 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.83144259     </BIAS>
+ <RMSE>  0.265649885     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.241945237     </MEAN_OBS>
+ <STDV_OBS>   1.95523143     </STDV_OBS>
+ <EXP>
+ <ID>       26425 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         987 </NUM>
+ <MEAN>  0.397308648     </MEAN>
+ <STDV>  -2.20020988E-10 </STDV>
+ <BIAS>   2.55034614     </BIAS>
+ <RMSE>  0.203257099     </RMSE>
+ <CORR>  -2.97486584E-11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26425 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         987 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   2.28902531     </BIAS>
+ <RMSE>   8.45251307E-02 </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.261234820     </MEAN_OBS>
+ <STDV_OBS>   1.43067133     </STDV_OBS>
+ <EXP>
+ <ID>       26313 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>  0.333932132     </MEAN>
+ <STDV>  -2.19996105E-10 </STDV>
+ <BIAS>   1.47765326     </BIAS>
+ <RMSE>  0.438743055     </RMSE>
+ <CORR>  -2.20020988E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26313 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.47701895     </BIAS>
+ <RMSE>  0.378158420     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.290927470     </MEAN_OBS>
+ <STDV_OBS>   1.99211979     </STDV_OBS>
+ <EXP>
+ <ID>       26406 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         981 </NUM>
+ <MEAN>  0.379809082     </MEAN>
+ <STDV>  -2.26582933E-10 </STDV>
+ <BIAS>   1.76657927     </BIAS>
+ <RMSE>   8.98988023E-02 </RMSE>
+ <CORR>  -2.19996105E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26406 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         981 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   2.24683213     </BIAS>
+ <RMSE>   8.49714130E-02 </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.282287478     </MEAN_OBS>
+ <STDV_OBS>   1.98904538     </STDV_OBS>
+ <EXP>
+ <ID>       26324 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>  0.325551063     </MEAN>
+ <STDV>  -1.80941329E-29 </STDV>
+ <BIAS>   2.55777788     </BIAS>
+ <RMSE>  0.367630392     </RMSE>
+ <CORR>  -2.26582933E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26324 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.90430951     </BIAS>
+ <RMSE>  0.370443046     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.107692286     </MEAN_OBS>
+ <STDV_OBS>   2.73432684     </STDV_OBS>
+ <EXP>
+ <ID>       26403 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>  0.504010022     </MEAN>
+ <STDV>  -1.77918100E-29 </STDV>
+ <BIAS>   1.65570617     </BIAS>
+ <RMSE>  0.213555619     </RMSE>
+ <CORR>  -1.80941329E-29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26403 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   2.71001363     </BIAS>
+ <RMSE>  0.130213559     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.505971670     </MEAN_OBS>
+ <STDV_OBS>   1.82384861     </STDV_OBS>
+ <EXP>
+ <ID>       26335 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>  0.468782067     </MEAN>
+ <STDV>  -2.97486584E-11 </STDV>
+ <BIAS>   1.89244163     </BIAS>
+ <RMSE>  0.406625926     </RMSE>
+ <CORR>  -1.77918100E-29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26335 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.85577500     </BIAS>
+ <RMSE>  0.455939263     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.587931216     </MEAN_OBS>
+ <STDV_OBS>   1.81444335     </STDV_OBS>
+ <EXP>
+ <ID>       26446 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         986 </NUM>
+ <MEAN>  0.407474071     </MEAN>
+ <STDV>  -2.21826155E-10 </STDV>
+ <BIAS>   2.42045164     </BIAS>
+ <RMSE>  0.530903637     </RMSE>
+ <CORR>  -2.97486584E-11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26446 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         986 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   2.93460679     </BIAS>
+ <RMSE>  0.176909193     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.324593455     </MEAN_OBS>
+ <STDV_OBS>   1.85687828     </STDV_OBS>
+ <EXP>
+ <ID>       26238 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         984 </NUM>
+ <MEAN>  0.372893631     </MEAN>
+ <STDV>  -2.20012536E-10 </STDV>
+ <BIAS>   2.69712806     </BIAS>
+ <RMSE>  0.358900964     </RMSE>
+ <CORR>  -2.21826155E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26238 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         984 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.96382964     </BIAS>
+ <RMSE>  0.404558897     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.243724689     </MEAN_OBS>
+ <STDV_OBS>   1.28185701     </STDV_OBS>
+ <EXP>
+ <ID>       26416 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>  0.329189092     </MEAN>
+ <STDV>  -2.26603361E-10 </STDV>
+ <BIAS>   1.77133036     </BIAS>
+ <RMSE>  0.303325295     </RMSE>
+ <CORR>  -2.20012536E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26416 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.35940564     </BIAS>
+ <RMSE>  0.318485647     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.308704466     </MEAN_OBS>
+ <STDV_OBS>   1.35866165     </STDV_OBS>
+ <EXP>
+ <ID>       26326 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>  0.344118118     </MEAN>
+ <STDV>  -2.26639568E-10 </STDV>
+ <BIAS>   2.18460417     </BIAS>
+ <RMSE>   4.95729186E-02 </RMSE>
+ <CORR>  -2.26603361E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26326 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   2.04935050     </BIAS>
+ <RMSE>  0.128230840     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.314777404     </MEAN_OBS>
+ <STDV_OBS>   1.76492953     </STDV_OBS>
+ <EXP>
+ <ID>       26435 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>  0.442727596     </MEAN>
+ <STDV>  -1.77919379E-29 </STDV>
+ <BIAS>   2.37172151     </BIAS>
+ <RMSE>  0.179026365     </RMSE>
+ <CORR>  -2.26639568E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26435 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.68665516     </BIAS>
+ <RMSE>  0.353052467     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.197975695     </MEAN_OBS>
+ <STDV_OBS>   1.23329461     </STDV_OBS>
+ <EXP>
+ <ID>       26318 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>  0.246716157     </MEAN>
+ <STDV>  -2.97486584E-11 </STDV>
+ <BIAS>   1.47996175     </BIAS>
+ <RMSE>  0.198771134     </RMSE>
+ <CORR>  -1.77919379E-29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26318 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.56485188     </BIAS>
+ <RMSE>  0.183333024     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.02428594E-02 </MEAN_OBS>
+ <STDV_OBS>  0.746505678     </STDV_OBS>
+ <EXP>
+ <ID>       26314 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>  0.180372983     </MEAN>
+ <STDV>  -2.21826155E-10 </STDV>
+ <BIAS>  0.695206642     </BIAS>
+ <RMSE>  0.404737532     </RMSE>
+ <CORR>  -2.97486584E-11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26314 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>  0.659067333     </BIAS>
+ <RMSE>  0.490430653     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.737044334     </MEAN_OBS>
+ <STDV_OBS>   1.86577010     </STDV_OBS>
+ <EXP>
+ <ID>       26436 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>  0.455383360     </MEAN>
+ <STDV>  -2.28489311E-10 </STDV>
+ <BIAS>   3.20060825     </BIAS>
+ <RMSE>   9.74581540E-02 </RMSE>
+ <CORR>  -2.21826155E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26436 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   2.75095534     </BIAS>
+ <RMSE>  0.185036182     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.326809376     </MEAN_OBS>
+ <STDV_OBS>   2.07931304     </STDV_OBS>
+ <EXP>
+ <ID>       26339 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         981 </NUM>
+ <MEAN>  0.417070836     </MEAN>
+ <STDV>  -2.26603361E-10 </STDV>
+ <BIAS>   2.81019568     </BIAS>
+ <RMSE>   5.09979799E-02 </RMSE>
+ <CORR>  -2.28489311E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26339 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         981 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   2.37574291     </BIAS>
+ <RMSE>   5.24330214E-02 </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.358655721     </MEAN_OBS>
+ <STDV_OBS>   1.96589875     </STDV_OBS>
+ <EXP>
+ <ID>       26503 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         982 </NUM>
+ <MEAN>  0.411427259     </MEAN>
+ <STDV>  -2.26639568E-10 </STDV>
+ <BIAS>   2.30975819     </BIAS>
+ <RMSE>  0.290712506     </RMSE>
+ <CORR>  -2.26603361E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26503 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         982 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   2.18792415     </BIAS>
+ <RMSE>  0.245397538     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.734209716     </MEAN_OBS>
+ <STDV_OBS>   1.30598915     </STDV_OBS>
+ <EXP>
+ <ID>       26447 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>  0.311677396     </MEAN>
+ <STDV>  -1.79844888E-29 </STDV>
+ <BIAS>   2.84625626     </BIAS>
+ <RMSE>  0.204552710     </RMSE>
+ <CORR>  -2.26639568E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26447 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   2.49788165     </BIAS>
+ <RMSE>  0.281097889     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.119823784     </MEAN_OBS>
+ <STDV_OBS>   1.02507818     </STDV_OBS>
+ <EXP>
+ <ID>        6030 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         454 </NUM>
+ <MEAN>  0.273595393     </MEAN>
+ <STDV>  -1.80941329E-29 </STDV>
+ <BIAS>   1.25055325     </BIAS>
+ <RMSE>  0.260346889     </RMSE>
+ <CORR>  -2.21820159E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6030 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         454 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.24265575     </BIAS>
+ <RMSE>  0.259709835     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.179470181     </MEAN_OBS>
+ <STDV_OBS>   1.46031833     </STDV_OBS>
+ <EXP>
+ <ID>        6060 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         453 </NUM>
+ <MEAN>  0.337271959     </MEAN>
+ <STDV>  -2.26647770E-10 </STDV>
+ <BIAS>   1.13273060     </BIAS>
+ <RMSE>  0.326910555     </RMSE>
+ <CORR>  -1.80941329E-29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6060 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         453 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.45188367     </BIAS>
+ <RMSE>  0.222326189     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.303030282     </MEAN_OBS>
+ <STDV_OBS>   1.51468790     </STDV_OBS>
+ <EXP>
+ <ID>        6070 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         429 </NUM>
+ <MEAN>  0.389821231     </MEAN>
+ <STDV>  -2.26647853E-10 </STDV>
+ <BIAS>   1.83728194     </BIAS>
+ <RMSE>  0.248994917     </RMSE>
+ <CORR>  -2.26647770E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6070 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         429 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.67629004     </BIAS>
+ <RMSE>  0.247632921     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.05599606     </STDV_OBS>
+ <EXP>
+ <ID>        6080 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         453 </NUM>
+ <MEAN>  0.226031929     </MEAN>
+ <STDV>  -2.21858795E-10 </STDV>
+ <BIAS>   1.29374516     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -2.26647853E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6080 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         453 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.05482984     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.160927176     </MEAN_OBS>
+ <STDV_OBS>  0.931532979     </STDV_OBS>
+ <EXP>
+ <ID>        6180 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         453 </NUM>
+ <MEAN>  0.196386129     </MEAN>
+ <STDV>  -2.26635571E-10 </STDV>
+ <BIAS>   1.01812017     </BIAS>
+ <RMSE>   2.35775076E-02 </RMSE>
+ <CORR>  -2.28489311E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6180 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         453 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.08101606     </BIAS>
+ <RMSE>  -4.48610000E-02 </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.108781897     </MEAN_OBS>
+ <STDV_OBS>   1.22952688     </STDV_OBS>
+ <EXP>
+ <ID>        6193 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         353 </NUM>
+ <MEAN>  0.145389721     </MEAN>
+ <STDV>  -1.79844888E-29 </STDV>
+ <BIAS>  0.722140014     </BIAS>
+ <RMSE>  0.215482190     </RMSE>
+ <CORR>  -2.26639568E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6193 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         353 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.24952745     </BIAS>
+ <RMSE>  0.219816431     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.137938604     </MEAN_OBS>
+ <STDV_OBS>   1.07212114     </STDV_OBS>
+ <EXP>
+ <ID>       10015 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.189718559     </MEAN>
+ <STDV>  -2.97492517E-11 </STDV>
+ <BIAS>   2.19839716     </BIAS>
+ <RMSE>  0.216780916     </RMSE>
+ <CORR>  -2.28428026E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10015 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.11726475     </BIAS>
+ <RMSE>  0.438802540     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.141008765     </MEAN_OBS>
+ <STDV_OBS>   1.12074852     </STDV_OBS>
+ <EXP>
+ <ID>       10020 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.189038903     </MEAN>
+ <STDV>  -2.26645785E-10 </STDV>
+ <BIAS>   1.57505298     </BIAS>
+ <RMSE>   1.96638778E-02 </RMSE>
+ <CORR>  -2.97492517E-11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10020 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.43063545     </BIAS>
+ <RMSE>   2.54683979E-02 </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.209712937     </MEAN_OBS>
+ <STDV_OBS>  0.884569168     </STDV_OBS>
+ <EXP>
+ <ID>       10035 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         453 </NUM>
+ <MEAN>  0.207011312     </MEAN>
+ <STDV>  -1.77919364E-29 </STDV>
+ <BIAS>  0.980515540     </BIAS>
+ <RMSE>  0.510346293     </RMSE>
+ <CORR>  -2.26645785E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10035 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         453 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>  0.880575359     </BIAS>
+ <RMSE>  0.553962708     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.390131533     </MEAN_OBS>
+ <STDV_OBS>  0.949310660     </STDV_OBS>
+ <EXP>
+ <ID>       10055 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.252462834     </MEAN>
+ <STDV>  -2.21872035E-10 </STDV>
+ <BIAS>   1.65534174     </BIAS>
+ <RMSE>  0.286561251     </RMSE>
+ <CORR>  -1.77919364E-29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10055 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.49900651     </BIAS>
+ <RMSE>  0.376394749     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.335540801     </MEAN_OBS>
+ <STDV_OBS>   1.20452130     </STDV_OBS>
+ <EXP>
+ <ID>       10147 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         453 </NUM>
+ <MEAN>  0.268908441     </MEAN>
+ <STDV>  -2.21826155E-10 </STDV>
+ <BIAS>   1.42312026     </BIAS>
+ <RMSE>  0.245384634     </RMSE>
+ <CORR>  -2.21872035E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10147 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         453 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.42207396     </BIAS>
+ <RMSE>  0.294201821     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.187499940     </MEAN_OBS>
+ <STDV_OBS>  0.601143122     </STDV_OBS>
+ <EXP>
+ <ID>       10162 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.161120236     </MEAN>
+ <STDV>  -2.28428026E-10 </STDV>
+ <BIAS>  0.877134860     </BIAS>
+ <RMSE>  0.266717821     </RMSE>
+ <CORR>  -2.21826155E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10162 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>  0.852569580     </BIAS>
+ <RMSE>  0.345985085     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.357017577     </MEAN_OBS>
+ <STDV_OBS>  0.581985474     </STDV_OBS>
+ <EXP>
+ <ID>       10184 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.146075487     </MEAN>
+ <STDV>  -2.97492517E-11 </STDV>
+ <BIAS>   1.34016812     </BIAS>
+ <RMSE>  0.188085988     </RMSE>
+ <CORR>  -2.28428026E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10184 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.21834040     </BIAS>
+ <RMSE>  0.205283910     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.458333462     </MEAN_OBS>
+ <STDV_OBS>   2.70909142     </STDV_OBS>
+ <EXP>
+ <ID>       10200 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.425565034     </MEAN>
+ <STDV>  -2.26645785E-10 </STDV>
+ <BIAS>   1.95329785     </BIAS>
+ <RMSE>  0.401547790     </RMSE>
+ <CORR>  -2.97492517E-11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10200 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   2.84486222     </BIAS>
+ <RMSE>  0.245215192     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.492763162     </MEAN_OBS>
+ <STDV_OBS>   1.43236458     </STDV_OBS>
+ <EXP>
+ <ID>       10271 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.366799951     </MEAN>
+ <STDV>  -1.79844888E-29 </STDV>
+ <BIAS>   2.02779937     </BIAS>
+ <RMSE>  0.313919872     </RMSE>
+ <CORR>  -2.26645785E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10271 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.69160235     </BIAS>
+ <RMSE>  0.436592638     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.357456207     </MEAN_OBS>
+ <STDV_OBS>   1.11623657     </STDV_OBS>
+ <EXP>
+ <ID>       10338 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.272618532     </MEAN>
+ <STDV>  -2.21872035E-10 </STDV>
+ <BIAS>   1.43875074     </BIAS>
+ <RMSE>  0.301684290     </RMSE>
+ <CORR>  -1.79844888E-29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10338 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.53074956     </BIAS>
+ <RMSE>  0.253656447     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.296271920     </MEAN_OBS>
+ <STDV_OBS>   1.15991449     </STDV_OBS>
+ <EXP>
+ <ID>       10361 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.301226795     </MEAN>
+ <STDV>  -2.21826155E-10 </STDV>
+ <BIAS>   1.22711515     </BIAS>
+ <RMSE>  0.403855890     </RMSE>
+ <CORR>  -2.21872035E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10361 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.17822337     </BIAS>
+ <RMSE>  0.448372632     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.652967334     </MEAN_OBS>
+ <STDV_OBS>   1.62644458     </STDV_OBS>
+ <EXP>
+ <ID>       10393 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         455 </NUM>
+ <MEAN>  0.522716343     </MEAN>
+ <STDV>  -1.78924519E-29 </STDV>
+ <BIAS>   2.15369153     </BIAS>
+ <RMSE>  0.339090943     </RMSE>
+ <CORR>  -2.21826155E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10393 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         455 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   2.16859841     </BIAS>
+ <RMSE>  0.315827608     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.289254397     </MEAN_OBS>
+ <STDV_OBS>  0.775132239     </STDV_OBS>
+ <EXP>
+ <ID>       10400 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.107632063     </MEAN>
+ <STDV>  -2.97492517E-11 </STDV>
+ <BIAS>   1.52005219     </BIAS>
+ <RMSE>   2.14760024E-02 </RMSE>
+ <CORR>  -1.78924519E-29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10400 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.55494273     </BIAS>
+ <RMSE>   5.40578887E-02 </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.279166490     </MEAN_OBS>
+ <STDV_OBS>   1.23548436     </STDV_OBS>
+ <EXP>
+ <ID>       10046 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.267505288     </MEAN>
+ <STDV>  -1.77918100E-29 </STDV>
+ <BIAS>   1.16685283     </BIAS>
+ <RMSE>  0.409997374     </RMSE>
+ <CORR>  -2.26645785E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10046 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.16122019     </BIAS>
+ <RMSE>  0.493026376     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.141447425     </MEAN_OBS>
+ <STDV_OBS>  0.944100440     </STDV_OBS>
+ <EXP>
+ <ID>       10091 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.199381277     </MEAN>
+ <STDV>  -2.21872035E-10 </STDV>
+ <BIAS>  0.865392327     </BIAS>
+ <RMSE>  0.300745100     </RMSE>
+ <CORR>  -1.77918100E-29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10091 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>  0.952030063     </BIAS>
+ <RMSE>  0.246712685     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.203070179     </MEAN_OBS>
+ <STDV_OBS>   1.53230309     </STDV_OBS>
+ <EXP>
+ <ID>       10113 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.311112463     </MEAN>
+ <STDV>  -2.21826155E-10 </STDV>
+ <BIAS>   1.79040122     </BIAS>
+ <RMSE>  0.488812625     </RMSE>
+ <CORR>  -2.21872035E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10113 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.38207829     </BIAS>
+ <RMSE>  0.493445933     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.282456070     </MEAN_OBS>
+ <STDV_OBS>   1.10968554     </STDV_OBS>
+ <EXP>
+ <ID>       10131 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.253475547     </MEAN>
+ <STDV>  -2.19996105E-10 </STDV>
+ <BIAS>  0.963821888     </BIAS>
+ <RMSE>  0.636651039     </RMSE>
+ <CORR>  -2.21826155E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10131 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>  0.979200065     </BIAS>
+ <RMSE>  0.608972788     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.340350866     </MEAN_OBS>
+ <STDV_OBS>   1.96239269     </STDV_OBS>
+ <EXP>
+ <ID>       10170 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.322597742     </MEAN>
+ <STDV>  -2.97492517E-11 </STDV>
+ <BIAS>   1.34887290     </BIAS>
+ <RMSE>  0.566933095     </RMSE>
+ <CORR>  -2.19996105E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10170 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.53767860     </BIAS>
+ <RMSE>  0.620804250     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.230022058     </MEAN_OBS>
+ <STDV_OBS>  0.667888701     </STDV_OBS>
+ <EXP>
+ <ID>       10253 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         453 </NUM>
+ <MEAN>  0.175112739     </MEAN>
+ <STDV>  -2.26645785E-10 </STDV>
+ <BIAS>  0.869310439     </BIAS>
+ <RMSE>  0.221744657     </RMSE>
+ <CORR>  -2.97492517E-11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10253 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         453 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>  0.907187223     </BIAS>
+ <RMSE>  0.188836619     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.163377210     </MEAN_OBS>
+ <STDV_OBS>   1.00544059     </STDV_OBS>
+ <EXP>
+ <ID>       10264 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.257609099     </MEAN>
+ <STDV>  -1.77918100E-29 </STDV>
+ <BIAS>   1.03979886     </BIAS>
+ <RMSE>  0.239076629     </RMSE>
+ <CORR>  -2.26645785E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10264 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.07720518     </BIAS>
+ <RMSE>  0.142057970     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.319078922     </MEAN_OBS>
+ <STDV_OBS>   2.23705029     </STDV_OBS>
+ <EXP>
+ <ID>       10268 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.367639571     </MEAN>
+ <STDV>  -2.21872035E-10 </STDV>
+ <BIAS>   1.48282444     </BIAS>
+ <RMSE>  0.657122254     </RMSE>
+ <CORR>  -1.77918100E-29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10268 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.75224996     </BIAS>
+ <RMSE>  0.626505673     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.494956166     </MEAN_OBS>
+ <STDV_OBS>   1.94542563     </STDV_OBS>
+ <EXP>
+ <ID>       10291 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.520422637     </MEAN>
+ <STDV>  -2.21826155E-10 </STDV>
+ <BIAS>   1.70753539     </BIAS>
+ <RMSE>  0.664627016     </RMSE>
+ <CORR>  -2.21872035E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10291 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   2.07124710     </BIAS>
+ <RMSE>  0.526595533     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.306578875     </MEAN_OBS>
+ <STDV_OBS>  0.757142067     </STDV_OBS>
+ <EXP>
+ <ID>       10315 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.206459448     </MEAN>
+ <STDV>  -2.19996105E-10 </STDV>
+ <BIAS>   1.21896970     </BIAS>
+ <RMSE>  0.336890846     </RMSE>
+ <CORR>  -2.21826155E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10315 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.24075782     </BIAS>
+ <RMSE>  0.247199818     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.404824644     </MEAN_OBS>
+ <STDV_OBS>   1.50146186     </STDV_OBS>
+ <EXP>
+ <ID>       10379 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.420297444     </MEAN>
+ <STDV>  -2.97492517E-11 </STDV>
+ <BIAS>   1.63064241     </BIAS>
+ <RMSE>  0.324830323     </RMSE>
+ <CORR>  -2.19996105E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10379 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.65481126     </BIAS>
+ <RMSE>  0.365814596     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.503752768     </MEAN_OBS>
+ <STDV_OBS>   1.38577807     </STDV_OBS>
+ <EXP>
+ <ID>       10384 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         453 </NUM>
+ <MEAN>  0.425387025     </MEAN>
+ <STDV>  -2.26645785E-10 </STDV>
+ <BIAS>   1.56190884     </BIAS>
+ <RMSE>  0.481711447     </RMSE>
+ <CORR>  -2.97492517E-11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10384 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         453 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.45451784     </BIAS>
+ <RMSE>  0.497756213     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.383552611     </MEAN_OBS>
+ <STDV_OBS>  0.459590614     </STDV_OBS>
+ <EXP>
+ <ID>       10410 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.101318449     </MEAN>
+ <STDV>  -1.77918100E-29 </STDV>
+ <BIAS>   1.80694294     </BIAS>
+ <RMSE>  0.154742956     </RMSE>
+ <CORR>  -2.26645785E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10410 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.82374978     </BIAS>
+ <RMSE>  0.126423538     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.373464942     </MEAN_OBS>
+ <STDV_OBS>  0.820814133     </STDV_OBS>
+ <EXP>
+ <ID>       10430 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.186356276     </MEAN>
+ <STDV>  -2.21872035E-10 </STDV>
+ <BIAS>   1.56096280     </BIAS>
+ <RMSE>  0.319695115     </RMSE>
+ <CORR>  -1.77918100E-29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10430 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.35136342     </BIAS>
+ <RMSE>  0.275625020     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.754605174     </MEAN_OBS>
+ <STDV_OBS>   1.12223637     </STDV_OBS>
+ <EXP>
+ <ID>       10453 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.401291341     </MEAN>
+ <STDV>  -2.21826155E-10 </STDV>
+ <BIAS>   1.57056355     </BIAS>
+ <RMSE>  0.488412440     </RMSE>
+ <CORR>  -2.21872035E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10453 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.54546010     </BIAS>
+ <RMSE>  0.521030843     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.561538577     </MEAN_OBS>
+ <STDV_OBS>   1.60590529     </STDV_OBS>
+ <EXP>
+ <ID>       10496 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         455 </NUM>
+ <MEAN>  0.444426030     </MEAN>
+ <STDV>  -2.19995896E-10 </STDV>
+ <BIAS>   1.74437428     </BIAS>
+ <RMSE>  0.388669521     </RMSE>
+ <CORR>  -2.21826155E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10496 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         455 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.99895346     </BIAS>
+ <RMSE>  0.292281449     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.223684251     </MEAN_OBS>
+ <STDV_OBS>   1.25410795     </STDV_OBS>
+ <EXP>
+ <ID>       10022 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.255471766     </MEAN>
+ <STDV>  -2.97492517E-11 </STDV>
+ <BIAS>   1.68454266     </BIAS>
+ <RMSE>  0.370391697     </RMSE>
+ <CORR>  -2.19995896E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10022 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.49939775     </BIAS>
+ <RMSE>  0.487664342     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.187719196     </MEAN_OBS>
+ <STDV_OBS>   1.29244423     </STDV_OBS>
+ <EXP>
+ <ID>       10028 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.206275210     </MEAN>
+ <STDV>  -2.26645785E-10 </STDV>
+ <BIAS>   1.31930149     </BIAS>
+ <RMSE>  0.204575717     </RMSE>
+ <CORR>  -2.97492517E-11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10028 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.36255240     </BIAS>
+ <RMSE>  0.249224186     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.198230013     </MEAN_OBS>
+ <STDV_OBS>   1.02562952     </STDV_OBS>
+ <EXP>
+ <ID>       10042 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         452 </NUM>
+ <MEAN>  0.170706064     </MEAN>
+ <STDV>  -1.80941329E-29 </STDV>
+ <BIAS>  0.839371562     </BIAS>
+ <RMSE>  0.146833733     </RMSE>
+ <CORR>  -2.26645785E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10042 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         452 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.19887233     </BIAS>
+ <RMSE>   9.71822217E-02 </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.291008770     </MEAN_OBS>
+ <STDV_OBS>  0.822459638     </STDV_OBS>
+ <EXP>
+ <ID>       10093 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.184126928     </MEAN>
+ <STDV>  -2.21872035E-10 </STDV>
+ <BIAS>  0.942851067     </BIAS>
+ <RMSE>  0.631582439     </RMSE>
+ <CORR>  -1.80941329E-29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10093 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>  0.893915832     </BIAS>
+ <RMSE>  0.590023279     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.233771905     </MEAN_OBS>
+ <STDV_OBS>   1.04527605     </STDV_OBS>
+ <EXP>
+ <ID>       10097 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.196216241     </MEAN>
+ <STDV>  -2.21826155E-10 </STDV>
+ <BIAS>  0.845199764     </BIAS>
+ <RMSE>  0.426957518     </RMSE>
+ <CORR>  -2.21872035E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10097 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>  0.933732212     </BIAS>
+ <RMSE>  0.532721221     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.357675493     </MEAN_OBS>
+ <STDV_OBS>   1.31014466     </STDV_OBS>
+ <EXP>
+ <ID>       10129 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.307452142     </MEAN>
+ <STDV>  -2.19995896E-10 </STDV>
+ <BIAS>   1.13655245     </BIAS>
+ <RMSE>  0.545037746     </RMSE>
+ <CORR>  -2.21826155E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10129 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.21080065     </BIAS>
+ <RMSE>  0.567353666     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.295175344     </MEAN_OBS>
+ <STDV_OBS>   1.15110445     </STDV_OBS>
+ <EXP>
+ <ID>       10130 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.227860272     </MEAN>
+ <STDV>  -2.97492517E-11 </STDV>
+ <BIAS>   1.15693688     </BIAS>
+ <RMSE>  0.500348508     </RMSE>
+ <CORR>  -2.19995896E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10130 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.14245093     </BIAS>
+ <RMSE>  0.532154202     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.191409707     </MEAN_OBS>
+ <STDV_OBS>   1.13115084     </STDV_OBS>
+ <EXP>
+ <ID>       10139 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         454 </NUM>
+ <MEAN>  0.246818572     </MEAN>
+ <STDV>  -2.26645785E-10 </STDV>
+ <BIAS>  0.975593448     </BIAS>
+ <RMSE>  0.283170253     </RMSE>
+ <CORR>  -2.97492517E-11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10139 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         454 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.23351693     </BIAS>
+ <RMSE>  0.169659808     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.542543948     </MEAN_OBS>
+ <STDV_OBS>  0.944421768     </STDV_OBS>
+ <EXP>
+ <ID>       10142 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.228076980     </MEAN>
+ <STDV>  -1.80941329E-29 </STDV>
+ <BIAS>   2.07541800     </BIAS>
+ <RMSE>  0.455341876     </RMSE>
+ <CORR>  -2.26645785E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10142 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.91868317     </BIAS>
+ <RMSE>  0.590210319     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.395394534     </MEAN_OBS>
+ <STDV_OBS>  0.888332784     </STDV_OBS>
+ <EXP>
+ <ID>       10146 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.205489278     </MEAN>
+ <STDV>  -2.21872035E-10 </STDV>
+ <BIAS>   1.43533540     </BIAS>
+ <RMSE>  0.391815275     </RMSE>
+ <CORR>  -1.80941329E-29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10146 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.39847505     </BIAS>
+ <RMSE>  0.406214625     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.360087574     </MEAN_OBS>
+ <STDV_OBS>   1.05441463     </STDV_OBS>
+ <EXP>
+ <ID>       10150 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.244763643     </MEAN>
+ <STDV>  -2.21826155E-10 </STDV>
+ <BIAS>   1.24939573     </BIAS>
+ <RMSE>  0.373255759     </RMSE>
+ <CORR>  -2.21872035E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10150 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.45797813     </BIAS>
+ <RMSE>  0.227254122     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.189254373     </MEAN_OBS>
+ <STDV_OBS>  0.964759290     </STDV_OBS>
+ <EXP>
+ <ID>       10152 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.254900068     </MEAN>
+ <STDV>  -2.19995896E-10 </STDV>
+ <BIAS>   1.70967329     </BIAS>
+ <RMSE>   4.32876721E-02 </RMSE>
+ <CORR>  -2.21826155E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10152 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.09751725     </BIAS>
+ <RMSE>  0.153078660     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.189254373     </MEAN_OBS>
+ <STDV_OBS>  0.502135277     </STDV_OBS>
+ <EXP>
+ <ID>       10156 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.148955524     </MEAN>
+ <STDV>  -2.97492517E-11 </STDV>
+ <BIAS>  0.832746625     </BIAS>
+ <RMSE>  0.299377888     </RMSE>
+ <CORR>  -2.19995896E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10156 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>  0.786907256     </BIAS>
+ <RMSE>  0.287509143     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.181963459     </MEAN_OBS>
+ <STDV_OBS>   1.00818932     </STDV_OBS>
+ <EXP>
+ <ID>       10161 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         438 </NUM>
+ <MEAN>  0.225394219     </MEAN>
+ <STDV>  -2.26645785E-10 </STDV>
+ <BIAS>  0.843550861     </BIAS>
+ <RMSE>  0.194835275     </RMSE>
+ <CORR>  -2.97492517E-11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10161 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         438 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.12176549     </BIAS>
+ <RMSE>  0.127898261     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.201096475     </MEAN_OBS>
+ <STDV_OBS>   1.19717538     </STDV_OBS>
+ <EXP>
+ <ID>       10168 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.272200048     </MEAN>
+ <STDV>  -1.80941329E-29 </STDV>
+ <BIAS>   1.14929819     </BIAS>
+ <RMSE>  0.476719648     </RMSE>
+ <CORR>  -2.26645785E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10168 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.22588789     </BIAS>
+ <RMSE>  0.336565226     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.306153834     </MEAN_OBS>
+ <STDV_OBS>  0.591151774     </STDV_OBS>
+ <EXP>
+ <ID>       10180 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         455 </NUM>
+ <MEAN>  0.161390424     </MEAN>
+ <STDV>  -2.21872035E-10 </STDV>
+ <BIAS>   1.49025309     </BIAS>
+ <RMSE>  0.342523098     </RMSE>
+ <CORR>  -1.80941329E-29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10180 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         455 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.46345866     </BIAS>
+ <RMSE>  0.342623830     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.608772218     </MEAN_OBS>
+ <STDV_OBS>   1.35609508     </STDV_OBS>
+ <EXP>
+ <ID>       10193 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.268032193     </MEAN>
+ <STDV>  -2.21826155E-10 </STDV>
+ <BIAS>   1.84282994     </BIAS>
+ <RMSE>  0.314306140     </RMSE>
+ <CORR>  -2.21872035E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10193 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.91521347     </BIAS>
+ <RMSE>  0.333603352     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.543420970     </MEAN_OBS>
+ <STDV_OBS>   1.76096141     </STDV_OBS>
+ <EXP>
+ <ID>       10210 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.304194957     </MEAN>
+ <STDV>  -2.19995896E-10 </STDV>
+ <BIAS>   2.00325990     </BIAS>
+ <RMSE>  0.499383897     </RMSE>
+ <CORR>  -2.21826155E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10210 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   2.00286889     </BIAS>
+ <RMSE>  0.540655553     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.280043811     </MEAN_OBS>
+ <STDV_OBS>  0.754620612     </STDV_OBS>
+ <EXP>
+ <ID>       10235 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.203403309     </MEAN>
+ <STDV>  -2.97492517E-11 </STDV>
+ <BIAS>   1.26815891     </BIAS>
+ <RMSE>  0.277937114     </RMSE>
+ <CORR>  -2.19995896E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10235 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.15363240     </BIAS>
+ <RMSE>  0.299222380     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.329753906     </MEAN_OBS>
+ <STDV_OBS>  0.755731225     </STDV_OBS>
+ <EXP>
+ <ID>       10249 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         447 </NUM>
+ <MEAN>  0.204385757     </MEAN>
+ <STDV>  -2.26645785E-10 </STDV>
+ <BIAS>   1.17248392     </BIAS>
+ <RMSE>  0.293752849     </RMSE>
+ <CORR>  -2.97492517E-11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10249 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         447 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.18049002     </BIAS>
+ <RMSE>  0.267902702     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.374561280     </MEAN_OBS>
+ <STDV_OBS>   1.08835542     </STDV_OBS>
+ <EXP>
+ <ID>       10261 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.252676785     </MEAN>
+ <STDV>  -1.80941329E-29 </STDV>
+ <BIAS>   1.66088390     </BIAS>
+ <RMSE>  0.114162676     </RMSE>
+ <CORR>  -2.26645785E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10261 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.79260159     </BIAS>
+ <RMSE>  0.122910932     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.350331038     </MEAN_OBS>
+ <STDV_OBS>   1.37647128     </STDV_OBS>
+ <EXP>
+ <ID>       10267 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         453 </NUM>
+ <MEAN>  0.371190995     </MEAN>
+ <STDV>  -2.21872035E-10 </STDV>
+ <BIAS>   1.94820464     </BIAS>
+ <RMSE>  0.242009193     </RMSE>
+ <CORR>  -1.80941329E-29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10267 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         453 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.97585237     </BIAS>
+ <RMSE>  0.300420135     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.366886050     </MEAN_OBS>
+ <STDV_OBS>   1.45869625     </STDV_OBS>
+ <EXP>
+ <ID>       10281 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.313271552     </MEAN>
+ <STDV>  -2.21826155E-10 </STDV>
+ <BIAS>   1.58864117     </BIAS>
+ <RMSE>  0.537465513     </RMSE>
+ <CORR>  -2.21872035E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10281 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.33949232     </BIAS>
+ <RMSE>  0.667610705     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.487938523     </MEAN_OBS>
+ <STDV_OBS>   1.60120559     </STDV_OBS>
+ <EXP>
+ <ID>       10282 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.381549001     </MEAN>
+ <STDV>  -2.21858781E-10 </STDV>
+ <BIAS>   1.65988708     </BIAS>
+ <RMSE>  0.625726640     </RMSE>
+ <CORR>  -2.21826155E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10282 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.49536729     </BIAS>
+ <RMSE>  0.648511827     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.228448316     </MEAN_OBS>
+ <STDV_OBS>   1.31160796     </STDV_OBS>
+ <EXP>
+ <ID>       10289 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         348 </NUM>
+ <MEAN>  0.218660116     </MEAN>
+ <STDV>  -2.97492517E-11 </STDV>
+ <BIAS>   1.36673439     </BIAS>
+ <RMSE>  0.558573723     </RMSE>
+ <CORR>  -2.21858781E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10289 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         348 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.61179292     </BIAS>
+ <RMSE>  0.411298066     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.275330395     </MEAN_OBS>
+ <STDV_OBS>  0.575092912     </STDV_OBS>
+ <EXP>
+ <ID>       10309 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         454 </NUM>
+ <MEAN>  0.140919805     </MEAN>
+ <STDV>  -2.26645785E-10 </STDV>
+ <BIAS>  0.952227533     </BIAS>
+ <RMSE>  0.342334837     </RMSE>
+ <CORR>  -2.97492517E-11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10309 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         454 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>  0.941698790     </BIAS>
+ <RMSE>  0.370151430     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.310087711     </MEAN_OBS>
+ <STDV_OBS>   1.12338305     </STDV_OBS>
+ <EXP>
+ <ID>       10312 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.273368806     </MEAN>
+ <STDV>  -2.26594715E-10 </STDV>
+ <BIAS>   1.33630633     </BIAS>
+ <RMSE>  0.225772485     </RMSE>
+ <CORR>  -2.26645785E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10312 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.63840270     </BIAS>
+ <RMSE>   9.54388678E-02 </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.208552614     </MEAN_OBS>
+ <STDV_OBS>  0.844498754     </STDV_OBS>
+ <EXP>
+ <ID>       10321 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.201672822     </MEAN>
+ <STDV>  -2.21872035E-10 </STDV>
+ <BIAS>   1.25380886     </BIAS>
+ <RMSE>  0.114902541     </RMSE>
+ <CORR>  -2.26594715E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10321 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.17241836     </BIAS>
+ <RMSE>  0.124721155     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.485526294     </MEAN_OBS>
+ <STDV_OBS>   1.37080526     </STDV_OBS>
+ <EXP>
+ <ID>       10325 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.287319362     </MEAN>
+ <STDV>  -2.21826155E-10 </STDV>
+ <BIAS>   2.07207727     </BIAS>
+ <RMSE>  0.103190720     </RMSE>
+ <CORR>  -2.21872035E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10325 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   2.19888926     </BIAS>
+ <RMSE>  0.105382480     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.352412164     </MEAN_OBS>
+ <STDV_OBS>   1.14561689     </STDV_OBS>
+ <EXP>
+ <ID>       10348 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.283398479     </MEAN>
+ <STDV>  -2.21858781E-10 </STDV>
+ <BIAS>   1.37583041     </BIAS>
+ <RMSE>  0.215117961     </RMSE>
+ <CORR>  -2.21826155E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10348 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.31099820     </BIAS>
+ <RMSE>  0.306326002     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.321929693     </MEAN_OBS>
+ <STDV_OBS>  0.884640992     </STDV_OBS>
+ <EXP>
+ <ID>       10356 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.243971139     </MEAN>
+ <STDV>  -2.97492517E-11 </STDV>
+ <BIAS>   1.13324225     </BIAS>
+ <RMSE>  0.304459572     </RMSE>
+ <CORR>  -2.21858781E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10356 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>  0.951445282     </BIAS>
+ <RMSE>  0.450624466     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.355263054     </MEAN_OBS>
+ <STDV_OBS>  0.932812274     </STDV_OBS>
+ <EXP>
+ <ID>       10359 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.270533830     </MEAN>
+ <STDV>  -2.26645785E-10 </STDV>
+ <BIAS>   1.45631766     </BIAS>
+ <RMSE>  0.270011067     </RMSE>
+ <CORR>  -2.97492517E-11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10359 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.28238738     </BIAS>
+ <RMSE>  0.297370166     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.314912319     </MEAN_OBS>
+ <STDV_OBS>   1.24913740     </STDV_OBS>
+ <EXP>
+ <ID>       10365 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.364201844     </MEAN>
+ <STDV>  -2.26594715E-10 </STDV>
+ <BIAS>   1.02168918     </BIAS>
+ <RMSE>  0.574188650     </RMSE>
+ <CORR>  -2.26645785E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10365 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.27568138     </BIAS>
+ <RMSE>  0.363858789     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.483772188     </MEAN_OBS>
+ <STDV_OBS>   1.51746321     </STDV_OBS>
+ <EXP>
+ <ID>       10368 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.369021147     </MEAN>
+ <STDV>  -2.21872035E-10 </STDV>
+ <BIAS>   1.76925302     </BIAS>
+ <RMSE>  0.451559186     </RMSE>
+ <CORR>  -2.26594715E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10368 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.86566794     </BIAS>
+ <RMSE>  0.297424674     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.543859541     </MEAN_OBS>
+ <STDV_OBS>   1.69168591     </STDV_OBS>
+ <EXP>
+ <ID>       10376 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.477432311     </MEAN>
+ <STDV>  -2.21826155E-10 </STDV>
+ <BIAS>   1.68019271     </BIAS>
+ <RMSE>  0.518659413     </RMSE>
+ <CORR>  -2.21872035E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10376 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.89877963     </BIAS>
+ <RMSE>  0.430074066     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.627851188     </MEAN_OBS>
+ <STDV_OBS>   1.49242783     </STDV_OBS>
+ <EXP>
+ <ID>       10385 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.429216087     </MEAN>
+ <STDV>  -2.21858781E-10 </STDV>
+ <BIAS>   1.63450122     </BIAS>
+ <RMSE>  0.545382619     </RMSE>
+ <CORR>  -2.21826155E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10385 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.66355491     </BIAS>
+ <RMSE>  0.522566915     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.438596517     </MEAN_OBS>
+ <STDV_OBS>   1.96719134     </STDV_OBS>
+ <EXP>
+ <ID>       10396 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.472298145     </MEAN>
+ <STDV>  -2.97492517E-11 </STDV>
+ <BIAS>   2.00955868     </BIAS>
+ <RMSE>  0.521938920     </RMSE>
+ <CORR>  -2.21858781E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10396 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.74421227     </BIAS>
+ <RMSE>  0.520206213     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.257596433     </MEAN_OBS>
+ <STDV_OBS>  0.792325497     </STDV_OBS>
+ <EXP>
+ <ID>       10424 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         441 </NUM>
+ <MEAN>  0.191175744     </MEAN>
+ <STDV>  -2.26645785E-10 </STDV>
+ <BIAS>   1.16917217     </BIAS>
+ <RMSE>  0.315356165     </RMSE>
+ <CORR>  -2.97492517E-11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10424 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         441 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.08703005     </BIAS>
+ <RMSE>  0.291227162     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.246153861     </MEAN_OBS>
+ <STDV_OBS>  0.834739387     </STDV_OBS>
+ <EXP>
+ <ID>       10433 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         455 </NUM>
+ <MEAN>  0.210075885     </MEAN>
+ <STDV>  -2.26594715E-10 </STDV>
+ <BIAS>  0.839153707     </BIAS>
+ <RMSE>  0.602988064     </RMSE>
+ <CORR>  -2.26645785E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10433 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         455 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>  0.812940300     </BIAS>
+ <RMSE>  0.611173570     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.227412269     </MEAN_OBS>
+ <STDV_OBS>  0.683827400     </STDV_OBS>
+ <EXP>
+ <ID>       10435 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.140089795     </MEAN>
+ <STDV>  -2.21872035E-10 </STDV>
+ <BIAS>  0.848019063     </BIAS>
+ <RMSE>  0.178880557     </RMSE>
+ <CORR>  -2.26594715E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10435 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>  0.862332702     </BIAS>
+ <RMSE>  0.257747978     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.273026288     </MEAN_OBS>
+ <STDV_OBS>  0.746030092     </STDV_OBS>
+ <EXP>
+ <ID>       10442 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.201966286     </MEAN>
+ <STDV>  -2.21826155E-10 </STDV>
+ <BIAS>  0.977761984     </BIAS>
+ <RMSE>  0.366933018     </RMSE>
+ <CORR>  -2.21872035E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10442 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>  0.988679945     </BIAS>
+ <RMSE>  0.397608012     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.376923263     </MEAN_OBS>
+ <STDV_OBS>  0.664692640     </STDV_OBS>
+ <EXP>
+ <ID>       10444 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         455 </NUM>
+ <MEAN>  0.167227164     </MEAN>
+ <STDV>  -2.21858781E-10 </STDV>
+ <BIAS>   1.52670014     </BIAS>
+ <RMSE>  0.238521487     </RMSE>
+ <CORR>  -2.21826155E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10444 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         455 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.46238887     </BIAS>
+ <RMSE>  0.292191803     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.383333176     </MEAN_OBS>
+ <STDV_OBS>  0.858583212     </STDV_OBS>
+ <EXP>
+ <ID>       10452 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.233458310     </MEAN>
+ <STDV>  -2.97492517E-11 </STDV>
+ <BIAS>   1.29367995     </BIAS>
+ <RMSE>  0.302678078     </RMSE>
+ <CORR>  -2.21858781E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10452 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.42891216     </BIAS>
+ <RMSE>  0.204267651     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.354824603     </MEAN_OBS>
+ <STDV_OBS>   1.09773886     </STDV_OBS>
+ <EXP>
+ <ID>       10454 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.305407345     </MEAN>
+ <STDV>  -2.26645785E-10 </STDV>
+ <BIAS>   1.05174363     </BIAS>
+ <RMSE>  0.480716705     </RMSE>
+ <CORR>  -2.97492517E-11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10454 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.24902678     </BIAS>
+ <RMSE>  0.376983672     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.428289503     </MEAN_OBS>
+ <STDV_OBS>  0.953382909     </STDV_OBS>
+ <EXP>
+ <ID>       10458 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.231646195     </MEAN>
+ <STDV>  -2.26594715E-10 </STDV>
+ <BIAS>   1.58382273     </BIAS>
+ <RMSE>  0.135566875     </RMSE>
+ <CORR>  -2.26645785E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10458 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.67422581     </BIAS>
+ <RMSE>  0.185069039     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.481579274     </MEAN_OBS>
+ <STDV_OBS>   1.27063990     </STDV_OBS>
+ <EXP>
+ <ID>       10474 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.365366936     </MEAN>
+ <STDV>  -2.21872035E-10 </STDV>
+ <BIAS>   1.54330266     </BIAS>
+ <RMSE>  0.428290844     </RMSE>
+ <CORR>  -2.26594715E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10474 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.77396476     </BIAS>
+ <RMSE>  0.283366978     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.496271938     </MEAN_OBS>
+ <STDV_OBS>   1.23838890     </STDV_OBS>
+ <EXP>
+ <ID>       10490 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>  0.383549601     </MEAN>
+ <STDV>  -2.21826155E-10 </STDV>
+ <BIAS>   1.65032911     </BIAS>
+ <RMSE>  0.406545788     </RMSE>
+ <CORR>  -2.21872035E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10490 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         456 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.42192686     </BIAS>
+ <RMSE>  0.453357160     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.179390728     </MEAN_OBS>
+ <STDV_OBS>  0.696412921     </STDV_OBS>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         985 </NUM>
+ <MEAN>   8.05986300E-02 </MEAN>
+ <STDV>  -2.26645785E-10 </STDV>
+ <BIAS>  0.910884857     </BIAS>
+ <RMSE>  0.361091226     </RMSE>
+ <CORR>  -2.97486549E-11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         985 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>  0.906742036     </BIAS>
+ <RMSE>  0.362373590     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.449797451     </MEAN_OBS>
+ <STDV_OBS>   1.93228769     </STDV_OBS>
+ <EXP>
+ <ID>       26551 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>  0.483248413     </MEAN>
+ <STDV>  -2.26594715E-10 </STDV>
+ <BIAS>   2.46199250     </BIAS>
+ <RMSE>  0.266549438     </RMSE>
+ <CORR>  -2.92982548E-11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26551 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         988 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   2.49027872     </BIAS>
+ <RMSE>  0.127922967     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.440654159     </MEAN_OBS>
+ <STDV_OBS>   1.80301666     </STDV_OBS>
+ <EXP>
+ <ID>        6069 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>  0.404167652     </MEAN>
+ <STDV>  -2.26647853E-10 </STDV>
+ <BIAS>   1.76855826     </BIAS>
+ <RMSE>  0.473449945     </RMSE>
+ <CORR>  -2.21820146E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6069 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.84389603     </BIAS>
+ <RMSE>  0.424930841     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.264120311     </MEAN_OBS>
+ <STDV_OBS>   1.45861828     </STDV_OBS>
+ <EXP>
+ <ID>        6154 </ID>
+ <NAME>MEPS2preop</NAME>
+ <NUM>         432 </NUM>
+ <MEAN>  0.333646983     </MEAN>
+ <STDV>  -2.26592259E-10 </STDV>
+ <BIAS>   1.24881732     </BIAS>
+ <RMSE>  0.354633600     </RMSE>
+ <CORR>  -2.21910518E-10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6154 </ID>
+ <NAME>MEPS2preop-test</NAME>
+ <NUM>         432 </NUM>
+ <MEAN>   3.15670505E-41 </MEAN>
+ <STDV>   3.15670505E-41 </STDV>
+ <BIAS>   1.70901990     </BIAS>
+ <RMSE>  0.190554172     </RMSE>
+ <CORR>   3.15670505E-41 </CORR>
+ </EXP>
+ </STATION>
+</STAT>
